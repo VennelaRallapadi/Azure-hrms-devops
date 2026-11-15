@@ -1,2 +1,18 @@
-# Azure-hrms-devops
-Develop and upgrading a hrms website into onpreme to azure cloud
+@"
+# Azure HRMS DevOps Project
+
+## Project Objective
+Deploy a secure HRMS application on Microsoft Azure.
+
+## Technology Stack
+- Azure
+- Terraform
+- Docker
+- Kubernetes
+- GitHub Actions
+- Python FastAPI
+- React
+- Azure SQL
+- Prometheus
+- Grafana
+"@ | Set-Content README.md
